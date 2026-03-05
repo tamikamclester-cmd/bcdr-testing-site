@@ -1,0 +1,13 @@
+[
+ {
+  "scenario": "Power Outage",
+  "system": "Primary Data Center",
+  "rto_target": "2 hours"
+ },
+
+ {
+  "scenario": "Cyber Attack",
+  "system": "Customer Systems",
+  "rto_target": "1 hour"
+ }
+]
